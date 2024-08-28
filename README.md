@@ -33,12 +33,12 @@
 
 ###
 
-<img align="right" height="170" src="https://img1.runjiapp.com/duoteimg/dtnew_newsup_img/202404/20240409151351_68806.gif"  />
+<img align="left" height="170" src="https://i.imgur.com/zgqVcNc.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laurakalybatas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laurakalybatas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
