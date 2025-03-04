@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Laura and I'm a web developer from São Paulo, Brazil! I usualy take the role of UI/UX designer in projects. I also love games and intend to develop my own one day!</h2>
+<h2 align="left">Oi 👋! My name is Laura and I'm a web developer from São Paulo, Brazil! I usualy take the role of UI/UX designing in projects. I also love games and intend to develop my own one day!</h2>
 
 <div align="left">
   <p>Tools & Languages</p>
