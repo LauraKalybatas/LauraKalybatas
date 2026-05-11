@@ -30,6 +30,5 @@
 </div>
 
 <div justify-content:"space-evenly">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laurakalybatas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=0d1117&hide_border=true&text_color=ffffff" height="150" alt="languages graph"  />
   <img height="170" src="https://i.imgur.com/zgqVcNc.gif"  />
 </div>
